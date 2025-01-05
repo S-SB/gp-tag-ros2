@@ -81,3 +81,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 S. E. Sundén Byléhn ([GitHub](https://github.com/S-SB))
+
+## Contributing
+Please see the main GP-Tag repository for contribution guidelines.
+
+## Citation
+If you use GP-Tag in your research, please cite:
+
+@misc{gptag2024,
+  author = {Sundén Byléhn, S. E.},
+  title = {GP-Tag: A Universal Fiducial Marker Framework},
+  year = {2024},
+  publisher = {GitHub},
+  url = {https://github.com/S-SB/gp-tag}
+}
