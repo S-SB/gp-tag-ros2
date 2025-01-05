@@ -16,6 +16,34 @@ This repository contains two main packages:
 
 For detailed documentation about the GP-Tag ROS2 implementation, see the [package README](gp_tag/README.md).
 
+## Dependencies
+
+## ROS2 Dependencies
+```bash
+sudo apt install ros-humble-cv-bridge
+sudo apt install ros-humble-tf2-ros
+sudo apt install ros-humble-tf2-geometry-msgs
+sudo apt install ros-humble-nav-msgs
+sudo apt install ros-humble-visualization-msgs
+```
+
+## RealSense Dependencies
+Install the RealSense SDK and ROS2 wrapper:
+```bash
+# Install RealSense SDK
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key F6E65AC044F831AC80A06380C8B3A55A6F3EFCDE
+sudo add-apt-repository "deb https://librealsense.intel.com/Debian/apt-repo $(lsb_release -cs) main"
+sudo apt update
+sudo apt install librealsense2-dkms librealsense2-utils librealsense2-dev
+
+# Install ROS2 RealSense wrapper
+sudo apt install ros-humble-realsense2-camera
+```
+
+## Python Dependencies
+```bash
+pip install numpy opencv-python reedsolo
+```
 ## Quick Start
 
 1. Create a ROS2 workspace:
