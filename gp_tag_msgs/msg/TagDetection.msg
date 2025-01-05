@@ -1,7 +1,7 @@
 # GP-Tag detection message definition
 #
 # MIT License
-# Copyright (c) 2024 S. E. Sundén Byléhn
+# Copyright (c) 2025 S. E. Sundén Byléhn
 #
 # Carries detection information including:
 # - Tag identification and version

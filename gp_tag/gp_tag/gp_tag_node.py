@@ -9,7 +9,7 @@ performance monitoring and throttling to maintain system stability.
 
 MIT License
 
-Copyright (c) 2024 S. E. Sundén Byléhn
+Copyright (c) 2025 S. E. Sundén Byléhn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -142,7 +142,7 @@ ros2 launch gp_tag gp_tag.launch.py camera_type:=generic mode:=visual device_id:
 
 MIT License
 
-Copyright (c) 2024 S. E. Sundén Byléhn
+Copyright (c) 2025 S. E. Sundén Byléhn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -171,3 +171,13 @@ S. E. Sundén Byléhn ([GitHub](https://github.com/S-SB))
 - RealSense ROS2 team for camera drivers
 - OpenCV team for computer vision tools
 
+## Citation
+If you use GP-Tag in your research, please cite:
+
+@misc{gptag2025,
+  author = {Sundén Byléhn, S. E.},
+  title = {GP-Tag: A Universal Fiducial Marker Framework},
+  year = {2025},
+  publisher = {GitHub},
+  url = {https://github.com/S-SB/gp-tag}
+}
