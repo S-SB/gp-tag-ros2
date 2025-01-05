@@ -1,0 +1,20 @@
+/gp_tag_camera:
+  ros__parameters:
+    device_id: 6
+    width: 1920
+    height: 1080
+    fps: 30
+    camera_matrix:
+      fx: 1344.0
+      fy: 1344.0
+      cx: 960.0
+      cy: 540.0
+    distortion_coeffs: [0.0, 0.0, 0.0, 0.0, 0.0]
+    frame_id: "camera_optical_frame"
+    auto_exposure: true
+    auto_white_balance: true
+    brightness: 128
+    contrast: 128
+    saturation: 128
+    sharpness: 128
+    retry_delay: 1.0
