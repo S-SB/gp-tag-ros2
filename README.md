@@ -1,3 +1,4 @@
+![GP-Tag Overview](docs/images/social-preview-ros2.png)
 # GP-Tag ROS2
 
 ROS2 implementation of the GP-Tag fiducial marker system. This package provides ROS2 nodes and interfaces for detecting and processing GP-Tags, which encode global position information (latitude, longitude, altitude) along with additional metadata.
